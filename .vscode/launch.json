@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "toku_setup",
+            "cwd": "toku_setup",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "toku_setup (profile mode)",
+            "cwd": "toku_setup",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "toku_setup (release mode)",
+            "cwd": "toku_setup",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
